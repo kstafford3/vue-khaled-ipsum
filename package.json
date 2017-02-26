@@ -1,6 +1,6 @@
 {
   "name": "vue-khaled-ipsum",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A vue component wrapper for khaled-ipsum",
   "main": "KhaledIpsum.vue",
   "scripts": {
@@ -15,8 +15,8 @@
   ],
   "author": "kstafford3",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/kstafford3/vue-khaled-ipsum"
+    "type": "git",
+    "url": "https://github.com/kstafford3/vue-khaled-ipsum"
   },
   "license": "MIT",
   "dependencies": {

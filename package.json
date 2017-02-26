@@ -1,6 +1,6 @@
 {
   "name": "vue-khaled-ipsum",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A vue component wrapper for khaled-ipsum",
   "main": "KhaledIpsum.vue",
   "scripts": {

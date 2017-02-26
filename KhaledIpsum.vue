@@ -15,10 +15,10 @@ export default {
       },
     }
   },
-  data() {
-    return {
-      ipsum: KhaledIpsum(this.options),
-    };
+  computed: {
+    ipsum() {
+      return KhaledIpsum(this.options);
+    }
   },
 };
 </script>

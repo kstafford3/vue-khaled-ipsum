@@ -14,6 +14,10 @@
     "vuejs"
   ],
   "author": "kstafford3",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/kstafford3/vue-khaled-ipsum"
+  },
   "license": "MIT",
   "dependencies": {
     "khaled-ipsum": "^0.1.1"

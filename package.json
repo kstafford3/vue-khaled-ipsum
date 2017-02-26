@@ -1,0 +1,27 @@
+{
+  "name": "vue-khaled-ipsum",
+  "version": "0.0.1",
+  "description": "A vue component wrapper for khaled-ipsum",
+  "main": "KhaledIpsum.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dj",
+    "khaled",
+    "ipsum",
+    "vue",
+    "vuejs"
+  ],
+  "author": "kstafford3",
+  "license": "MIT",
+  "dependencies": {
+    "khaled-ipsum": "^0.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.16.1",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.4.2",
+    "eslint-plugin-standard": "^2.0.1"
+  }
+}
